@@ -9,6 +9,5 @@ This content was added from feature-1 branch
 Temporary stash content
 
 
-this is a clone repository 
 
 THIS CHANGE WAS ADDED IN FEATURE-2 BRANCH
